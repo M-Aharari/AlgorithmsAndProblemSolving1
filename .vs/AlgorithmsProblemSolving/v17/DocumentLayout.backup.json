@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\AlgorithmsProblemSolving\\",
+  "WorkspaceRootPath": "C:\\AlgorithmsProblemSolving\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BED849C-0E22-4D07-A0BD-EC94ACD6F906}|AlgorithmsProblemSolving.vcxproj|C:\\Users\\Dell\\source\\repos\\AlgorithmsProblemSolving\\AlgorithmsProblemSolving.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0BED849C-0E22-4D07-A0BD-EC94ACD6F906}|AlgorithmsProblemSolving.vcxproj|C:\\AlgorithmsProblemSolving\\AlgorithmsProblemSolving.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0BED849C-0E22-4D07-A0BD-EC94ACD6F906}|AlgorithmsProblemSolving.vcxproj|solutionrelative:AlgorithmsProblemSolving.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AlgorithmsProblemSolving.cpp",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\AlgorithmsProblemSolving\\AlgorithmsProblemSolving.cpp",
+              "DocumentMoniker": "C:\\AlgorithmsProblemSolving\\AlgorithmsProblemSolving.cpp",
               "RelativeDocumentMoniker": "AlgorithmsProblemSolving.cpp",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\AlgorithmsProblemSolving\\AlgorithmsProblemSolving.cpp",
+              "ToolTip": "C:\\AlgorithmsProblemSolving\\AlgorithmsProblemSolving.cpp",
               "RelativeToolTip": "AlgorithmsProblemSolving.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwA8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-22T17:10:14.879Z",
               "EditorCaption": ""
